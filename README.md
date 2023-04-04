@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La idea del proyecto era hacer un clone de netflix donde pudiera llamar a la api de themoviedb para mostrar las peliculas, hacer un login con firebase para probar userAuth para crear a los usuarios y almacenarlos, usar tambien async await para el logueo (manejar los eventos) y por ultimo poder hacer un like (snapshot) de peliculas que se quieran guardar como favoritas (si no funciona el like es por que expiro el tiempo de la regla de firestore)
 
 ## Built With: 
 
